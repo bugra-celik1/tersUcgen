@@ -1,0 +1,1 @@
+# Klavyeden alınan basamak sayısı ile * sembolü yardımıyla ters üçgen oluşturur.
